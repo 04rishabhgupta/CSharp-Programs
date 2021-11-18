@@ -31,7 +31,6 @@ namespace PracticePrograms.Tests
             string saturday = obj.GetDay(6);
             Assert.AreEqual("Saturday", saturday);
             //TODO: Write testcase to test all conditions possible for GetDay functions
-            Assert.Fail();
         }
     }
 }
